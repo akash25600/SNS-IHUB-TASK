@@ -1,5 +1,8 @@
 # SNS-IHUB-TASK
 
+![image](https://github.com/user-attachments/assets/5d32e829-6a9d-4bfb-9b43-1a97c6d0ae83)
+
+
 **Project Title: Data Science and AI Challenges**
 
 **Overview**
