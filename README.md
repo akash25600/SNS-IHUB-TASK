@@ -148,26 +148,7 @@ Handling of API responses and errors.
 Clean and well-structured code.
 Solution Overview: The solution integrates with an external API, handles different types of responses, and gracefully deals with errors such as timeouts or invalid requests.
 
-**Example Usage:**
 
-python
-Copy code
-import requests
-
-response = requests.get("https://api.example.com/data")
-if response.status_code == 200:
-    data = response.json()
-else:
-    print("Error fetching data.")
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/project-repo.git
-Install the required Python packages:
-bash
-Copy code
-pip install -r requirements.txt
 
 **License**
 
